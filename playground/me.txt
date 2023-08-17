@@ -1,5 +1,0 @@
-{#user}
-Name: Pumang Kirange
-Skills: HTML, CSS, JS, Node, Express, MongoDB, MySQL
-Email: kirangespumang03@gmail.com
-{{/user}}
